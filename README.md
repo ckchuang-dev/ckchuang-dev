@@ -1,6 +1,22 @@
 ### Hi there, I'm CK Chuang 👋
 
-I’ve been a web developer for over 7 years, focusing primarily on front-end development with technologies like React and TypeScript, while also gaining backend experience with Node.js, PostgreSQL and AWS services.
+I'm a web developer from Taiwan, specializing in front-end development with expertise in React and TypeScript, while also gaining backend experience in Node.js, PostgreSQL, and AWS services.
+
+#### ✨ About me
+
+<span>
+<!-- Light Mode -->
+<a href="www.linkedin.com/in/ckchuang#gh-light-mode-only">
+    <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
+        alt="Connect with me on linkedin" height="25" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.linkedin.com/in/ckchuang#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
+        alt="Connect with me on linkedin" height="25" >
+</a>
+</span>
+<br>
 
 - 🔭 I'm currently seeking new opportunities as a frontend or fullstack developer.
 - 👨‍💻 Previously a Senior Frontend Engineer at Pinkoi.
