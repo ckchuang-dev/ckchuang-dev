@@ -28,4 +28,10 @@ I'm a web developer from Taiwan, specializing in front-end development with expe
 ![CK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckchuang-dev&show_icons=true&count_private=false&custom_title=My%20GitHub%20Stats%20&theme=dracula)
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   15 mins         █████████████░░░░░░░░░░░░   51.38 %
+YAML       14 mins         ████████████░░░░░░░░░░░░░   48.62 %
+```
+
 <!--END_SECTION:waka-->
