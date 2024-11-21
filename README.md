@@ -26,11 +26,11 @@ I'm a web developer from Taiwan, specializing in front-end development with expe
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     23 mins         ████████▒░░░░░░░░░░░░░░░░   32.93 %
-Docker       17 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
-YAML         14 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
-TypeScript   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+TypeScript   1 hr 37 mins    ███████████████▒░░░░░░░░░   61.72 %
+Markdown     24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+Docker       17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+YAML         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
