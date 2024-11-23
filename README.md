@@ -1,6 +1,6 @@
 ### Hi there, I'm CK Chuang 👋
 
-I'm a web developer from Taiwan, specializing in front-end development with expertise in React and TypeScript, while also gaining backend experience in Node.js, PostgreSQL, and AWS services.
+I'm a web developer from Taiwan, specializing in front-end development with expertise in TypeScript/React/Next.js, while also gaining backend experience.
 
 #### ✨ About me
 
@@ -14,9 +14,7 @@ I'm a web developer from Taiwan, specializing in front-end development with expe
   </samp>
 </p>
 
-- 🔭 I'm currently seeking new opportunities as a frontend or fullstack developer.
-- 👨‍💻 Previously a Senior Frontend Engineer at [Pinkoi](https://www.pinkoi.com/).
-- 🌱 I’m currently learning Next.js, Node.js, Rust and Containerization.
+- 🌱 I’m currently learning Rust and Containerization.
 - 📫 How to reach me: Email, LinkedIn, Instagram
 
 #### 📈 My coding stats
