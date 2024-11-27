@@ -24,11 +24,11 @@ I'm a web developer from Taiwan, specializing in front-end development with expe
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    9 hrs 11 mins   ████████████▒░░░░░░░░░░░░   49.18 %
-MDX           5 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   29.00 %
-JavaScript    1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-JSON          53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-CSS           46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+TypeScript    10 hrs 4 mins   ███████████▓░░░░░░░░░░░░░   46.71 %
+MDX           6 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   31.65 %
+JavaScript    1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+JSON          1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+CSS           47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
