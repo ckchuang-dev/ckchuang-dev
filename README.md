@@ -1,13 +1,12 @@
 ### Hi there, I'm CK Chuang 👋
 
-I'm a web developer from Taiwan, specializing in full-stack web applications. Proficient in frontend technologies, including JavaScript, TypeScript, React.js, and Next.js, with backend experience using Node.js and cloud infrastructure on AWS.
+I'm a web developer from Taiwan, a tech enthusiast fueled by coffee and curiosity.
 
-#### ✨ About me
+<!-- #### ✨ About me -->
 
 <p align="center">
   <samp>
     <a href="https://www.codefarmer.tw/">blog</a> .
-    <a href="https://www.linkedin.com/in/ckchuang">linkedin</a> .
     <a href="https://www.instagram.com/codefarmer.tw/">instagram</a> .
     <a href="https://www.threads.net/@codefarmer.tw">threads</a> .
     <a href="mailto:dissaivent@gmail.com">email</a>
