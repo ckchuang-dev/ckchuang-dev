@@ -2,7 +2,7 @@
 
 I'm a web developer from Taiwan, a tech enthusiast fueled by coffee and curiosity.
 
-<!-- #### ✨ About me -->
+#### ✨ More about me
 
 <p align="center">
   <samp>
