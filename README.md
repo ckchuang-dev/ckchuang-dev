@@ -7,8 +7,8 @@ I'm a web developer from Taiwan, a tech enthusiast fueled by coffee and curiosit
 <p align="center">
   <samp>
     <a href="https://www.codefarmer.tw">blog</a> .
-    <a href="https://www.instagram.com/ckchuang.dev">instagram</a> .
-    <a href="https://www.threads.net/@ckchuang.dev">threads</a> .
+    <a href="https://www.instagram.com/codefarmer.tw">instagram</a> .
+    <a href="https://www.threads.net/@codefarmer.tw">threads</a> .
     <a href="mailto:dissaivent@gmail.com">email</a>
   </samp>
 </p>
