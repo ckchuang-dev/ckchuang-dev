@@ -2,10 +2,10 @@
 
 I'm a web developer from Taiwan, a tech enthusiast fueled by coffee and curiosity.
 
-- 👨‍💻 Experienced Software Engineer with years of comprehensive software development expertise, specializing in full-stack web applications.
-- ✅ Proficient in frontend development with expertise in JavaScript, TypeScript, and React.js.
-- ✨ Actively sharing technical insights through in-depth articles that have gained over 500,000 views across tech platforms.
-- 📫 How to reach me: Email, LinkedIn, Instagram
+- 👨‍💻 Experienced Software Engineer with years of comprehensive expertise in software development.
+- ✅ Proficient in web frontend development using JavaScript, TypeScript, and React.js.
+- ✨ Actively share technical insights through in-depth articles, accumulating over 500,000+ views across tech platforms.
+- 📫 How to reach me: Email, LinkedIn, Instagram.
 
 <p align="center">
   <samp>
