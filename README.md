@@ -2,13 +2,19 @@
 
 I'm a web developer from Taiwan, a tech enthusiast fueled by coffee and curiosity.
 
-#### ✨ More about me
+- 👨‍💻 Experienced Software Engineer with years of comprehensive software development expertise, specializing in full-stack web applications.
+- ✅ Proficient in frontend development with expertise in JavaScript, TypeScript, and React.js.
+- ✨ Actively sharing technical insights through in-depth articles that have gained over 500,000 views across tech platforms.
+- 📫 How to reach me: Email, LinkedIn, Instagram
 
 <p align="center">
   <samp>
     <a href="https://www.codefarmer.tw">blog</a> .
     <a href="https://www.instagram.com/codefarmer.tw">instagram</a> .
     <a href="https://www.threads.net/@codefarmer.tw">threads</a> .
+    <a href="https://bsky.app/profile/codefarmer.tw">bluesky</a> .
+    <a href="https://ckchuang.substack.com/">newsletter</a> .
+    <a href="https://www.linkedin.com/in/ckchuang/">linkedin</a> .
     <a href="mailto:dissaivent@gmail.com">email</a>
   </samp>
 </p>
